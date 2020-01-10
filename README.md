@@ -1,1 +1,1 @@
-This project was built on React js, HTML, CSS, Bootstrap. This is website to get weather based on the city name. 
+This project was built on React js, HTML, CSS, Bootstrap. This is an website to get weather details based on the city name. 
